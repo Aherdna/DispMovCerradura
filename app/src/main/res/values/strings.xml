@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cerradura</string>
+    <string name="bienvenido_registrate_para_continuar">¡Bienvenido! Registrate para continuar.</string>
+    <string name="email">Correo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="asistente_de_cerradura">Asistente de cerradura</string>
+    <string name="confirme_contrase_a">Confirme contraseña</string>
+    <string name="has_ingresado">Has ingresado</string>
+    <string name="correo">Correo</string>
+    <string name="item_cerrar">item_cerrar</string>
+    <string name="sing_out">sing_out</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+</resources>
