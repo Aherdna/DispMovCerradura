@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Cerradura/app/src/main/res/layout/activity_chat.xml" value="0.25" />
         <entry key="..\:/Android/Cerradura/app/src/main/res/layout/activity_log_in.xml" value="0.33" />
         <entry key="..\:/Android/Cerradura/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android/Cerradura/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/Android/Cerradura/app/src/main/res/layout/card_view_mensajes.xml" value="0.25" />
         <entry key="..\:/Android/Cerradura/app/src/main/res/menu/menu_item.xml" value="0.1" />
       </map>
     </option>
